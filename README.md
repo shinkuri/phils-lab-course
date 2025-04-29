@@ -1,4 +1,4 @@
 # Learning PCB Design 
 ## Phil's Lab #11
-![PCB Layout view](misc/layout.png)
-![3D Render of PCB](misc/render.png)
+![PCB Layout view](phil-lab-11/misc/layout.png)
+![3D Render of PCB](phil-lab-11/misc/render.png)
